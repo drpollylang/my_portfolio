@@ -1,6 +1,6 @@
-## [Click here to visit the website](https://drpollylang.github.io/portfolio/)
+## [Click here to visit the website](https://drpollylang.github.io/my_portfolio/)
 
-This is my personal portfolio website, first created and published 4 October 2025.
+This is my personal portfolio website, first created and published 20 October 2025.
 
 All content is my own. 
 
